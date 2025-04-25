@@ -45,7 +45,7 @@ const HeroSection = () => {
             </Button>
           </Link>
 
-          <Link href="https://textutils-amber.vercel.app/">
+          <Link href="https://spendyx-demo.vercel.app/">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
